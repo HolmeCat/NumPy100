@@ -1,0 +1,14 @@
+< header
+# 100 numpy exercises
+
+This is a collection of exercises that have been collected in the numpy mailing list, on stack overflow
+and in the numpy documentation. The goal of this collection is to offer a quick reference for both old
+and new users but also to provide a set of exercises for those who teach.
+
+这是100道NumPy题目的自改版，将做题结构改成了类似于Kaggle那样的方便查hint和answer的布局
+
+< sub_header
+请先运行下方的第一块代码载入支持模块，然后开始练习
+
+< jupyter_instruction
+For each question you can query the answer or an hint with `hint(n)` or `answer(n)` for `n` question number.
